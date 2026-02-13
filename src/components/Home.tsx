@@ -12,6 +12,10 @@ export function Home() {
           <h2>💡 Business Idea Generator</h2>
           <p>Generate random, ridiculous business ideas with the click of a button!</p>
         </Link>
+        <Link to="/apps/hello-vera" className="app-card">
+          <h2>🌿 Hello Vera</h2>
+          <p>Landing page for a fresh aloe vera subscription service in Australia.</p>
+        </Link>
       </div>
 
       <div className="info">

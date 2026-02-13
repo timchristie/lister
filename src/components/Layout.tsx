@@ -12,6 +12,9 @@ export function Layout() {
           <li>
             <Link to="/apps/business-idea-generator">Business Idea Generator</Link>
           </li>
+          <li>
+            <Link to="/apps/hello-vera">Hello Vera</Link>
+          </li>
         </ul>
       </nav>
       <main className="main-content">
